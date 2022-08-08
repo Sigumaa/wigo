@@ -4,4 +4,4 @@
 - [x] Using the regexp package to validate user input
 - [x] Using closures
 
-- [ ] Store templates in tmpl/ and page data in data/.
+- [x] Store templates in tmpl/ and page data in data/.
